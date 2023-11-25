@@ -2,7 +2,7 @@ const content = {
     'en': {
         'Who am I?': '<p class="moreinfo">My name is Adam Burakowski,<br>I do many things, but mainly I program in C and Python, make videos on YouTube, and write short stories on Wattpad. You can find all of my stuff on my platforms linked below.</p>',
         'My personal projects': '<p class="moreinfo">Currently I don\'t have any big projects to share here, however you can find everything I\'ve done on my Github. It\'s linked below with my socials.</p>',
-        'Donate': '<div id="container"><div class="donateblock" id="donateinfo"><p class="moreinfo">You can support my work via Patronite, or make a donation to one of my crypto wallets</p></div><div class="donateblock" id="patronite"><a href="https://patronite.pl/adam-burakowski" target="_blank" class="link">Patronite</a></div><div class="donateblock" id="cryptowallets"><a href="wallets.html" class="link">My Wallets</a></div></div>',
+        'Donate': '<div id="container"><div class="donateblock" id="donateinfo"><p class="moreinfo">You can support my work via Patronite, or make a donation to one of my crypto wallets</p></div><div class="donateblock" id="patronite"><a href="https://patronite.pl/adam-burakowski" target="_blank" class="link">Patronite</a></div><div class="donateblock" id="cryptowallets"><a href="./wallets" class="link">My Wallets</a></div></div>',
         'Quote': '„We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard”<br>—John F. Kennedy',
         'Language': 'Language: ',
         'Wai': 'Who am I?',
@@ -13,7 +13,7 @@ const content = {
     'pl': {
         'Who am I?': '<p class="moreinfo">Nazywam się Adam Burakowski,<br>Zajmuję się wieloma rzeczami, jednak głównie programuję w C i Pythonie, tworzę filmy na YouTubie, i piszę opowiadania na Wattpadzie. Wszystkie te rzeczy znajdziesz na moich platformach, do których linki znajdują się poniżej.</p>',
         'My personal projects': '<p class="moreinfo">Na ten moment nie mam za sobą żadnych większych projektów, Jednak możesz znaleźć wszystko co zrobiłem na Githubie, do którego link znajduje się pośród moich social mediów</p>',
-        'Donate': '<div id="container"><div class="donateblock" id="donateinfo"><p class="moreinfo">Możesz mnie wspierać, zostając patronem w serwisie Patronite, lub przesyłając pieniądze na jeden z moich portweli kryptowalut</p></div><div class="donateblock" id="patronite"><a href="https://patronite.pl/adam-burakowski" target="_blank" class="link">Patronite</a></div><div class="donateblock" id="cryptowallets"><a href="wallets.html" class="link">Portfele</a></div></div>',
+        'Donate': '<div id="container"><div class="donateblock" id="donateinfo"><p class="moreinfo">Możesz mnie wspierać, zostając patronem w serwisie Patronite, lub przesyłając pieniądze na jeden z moich portweli kryptowalut</p></div><div class="donateblock" id="patronite"><a href="https://patronite.pl/adam-burakowski" target="_blank" class="link">Patronite</a></div><div class="donateblock" id="cryptowallets"><a href="./wallets" class="link">Portfele</a></div></div>',
         'Quote': '„Wybieramy się na Księżyc w tej dekadzie i podejmujemy inne wyzwania, nie dlatego, że są łatwe, ale dlatego, że są trudne”<br>—John F. Kennedy',
         'Language': 'Język: ',
         'Wai': 'Kim jestem?',
