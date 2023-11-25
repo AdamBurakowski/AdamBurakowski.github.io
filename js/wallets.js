@@ -1,14 +1,14 @@
 const content = {
     'en': {
         'Header': 'You can send some Cryptocurrency to one of these wallets',
-        'WalletFooter': '<h2>You can go back to the main site by clicking the back button.</h2><div id="backbutton"><a href="index.html" class="link">Back</a></div>',
+        'WalletFooter': '<h2>You can go back to the main site by clicking the back button.</h2><div id="backbutton"><a href="./" class="link">Back</a></div>',
         'Language': 'Language: ',
         'Footer': '2023 © Adam Burakowski - Programmer, writer and YouTube creator. Contact me at adam.burakowski.kontakt@gmail.com',
         'Tooltip': 'Copy to clipboard',
     },
     'pl': {
         'Header': 'Możesz przesłać mi kryptowalutę na jeden z tych portfeli',
-        'WalletFooter': '<h2>Możesz wrócić do strony głównej naciskając przycisk powrót.</h2><div id="backbutton"><a href="index.html" class="link">Powrót</a></div>',
+        'WalletFooter': '<h2>Możesz wrócić do strony głównej naciskając przycisk powrót.</h2><div id="backbutton"><a href="./" class="link">Powrót</a></div>',
         'Language': 'Język: ',
         'Footer': '2023 © Adam Burakowski - Programista, pisarz oraz twórca YouTube. Mail kontaktowy: adam.burakowski.kontakt@gmail.com',
         'Tooltip': 'Skopiuj do schowka',
