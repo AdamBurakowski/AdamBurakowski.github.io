@@ -8,7 +8,7 @@ const content = {
         'Wai': 'Who am I?',
         'Mpp': 'My personal projects',
         'Dnt': 'Donate',
-        'Footer': '2023 © Adam Burakowski - Programmer, writer and YouTube creator. Contact me at adam.burakowski.kontakt@gmail.com',
+        'Footer': '2023 © Adam Burakowski (Content licensed under CC BY-SA 4.0) - Programmer, writer, and YouTube creator.\nContact me at: adam.burakowski.kontakt@gmail.com',
     },
     'pl': {
         'Who am I?': '<p class="moreinfo">Nazywam się Adam Burakowski,<br>Zajmuję się wieloma rzeczami, jednak głównie programuję w C i Pythonie, tworzę filmy na YouTubie, i piszę opowiadania na Wattpadzie. Wszystkie te rzeczy znajdziesz na moich platformach, do których linki znajdują się poniżej.</p>',
@@ -19,7 +19,7 @@ const content = {
         'Wai': 'Kim jestem?',
         'Mpp': 'Moje projekty',
         'Dnt': 'Wsparcie',
-        'Footer': '2023 © Adam Burakowski - Programista, pisarz oraz twórca YouTube. Mail kontaktowy: adam.burakowski.kontakt@gmail.com',
+        'Footer': '2023 © Adam Burakowski (Zawartość udostępniona na licencji CC BY-SA 4.0) - Programista, pisarz oraz twórca YouTube.\nMail kontaktowy: adam.burakowski.kontakt@gmail.com',
     }
 };
 
